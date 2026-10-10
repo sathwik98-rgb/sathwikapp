@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sathwikapp/static/css/main.f855e6bc.css",
+    "main.js": "/sathwikapp/static/js/main.68f2e100.js",
+    "static/js/453.35732811.chunk.js": "/sathwikapp/static/js/453.35732811.chunk.js",
+    "index.html": "/sathwikapp/index.html",
+    "main.f855e6bc.css.map": "/sathwikapp/static/css/main.f855e6bc.css.map",
+    "main.68f2e100.js.map": "/sathwikapp/static/js/main.68f2e100.js.map",
+    "453.35732811.chunk.js.map": "/sathwikapp/static/js/453.35732811.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.68f2e100.js"
+  ]
+}
